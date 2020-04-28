@@ -3,7 +3,6 @@ body {
   text-align: center;
   margin: 0;
   font-family: 'Roboto', sans-serif;
-
 }
 
 hr {
@@ -23,18 +22,19 @@ h1 {
 
 h2 {
   color: #ff6464;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
   font-weight: normal;
   font-size: 2.5rem;
   font-family: 'Lato', sans-serif;
 }
 
 h3 {
-  font-size: 1.5rem;
+  font-size: 1.17rem;
   font-family: 'Lato', sans-serif;
 }
 
 p {
+  font-size: 0.95rem;
   line-height: 2;
 }
 
@@ -124,7 +124,7 @@ per far apparire solo il paragrafo sotto l'immagine*/
   cursor: pointer;
   color: white;
   font-family: 'Roboto', sans-serif;
-  font-size: 15px;
+  font-size: 0.9375rem;
   font-weight: bold;
   padding: 6px 24px;
   text-decoration: none;
