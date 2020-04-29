@@ -48,9 +48,7 @@ a {
 a:hover {
   color: white;
 }
-.touch-message {
-  font-size: 1.17rem
-}
+
 .profilepicture {
   width: 250px;
   height: 250px;
@@ -111,6 +109,11 @@ per far apparire solo il paragrafo sotto l'immagine*/
   width: 30%;
 }
 
+.h3contactmessage {
+  width: 50%;
+  margin: auto;
+}
+
 .contactmessage {
   margin: 40px auto;
   width: 30%;
@@ -147,4 +150,6 @@ per far apparire solo il paragrafo sotto l'immagine*/
   color: white;
   font-size: 0.75rem;
   padding: 20px 0;
+  margin: auto;
+  width: 30%;
 }
