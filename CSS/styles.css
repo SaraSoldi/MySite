@@ -48,7 +48,9 @@ a {
 a:hover {
   color: white;
 }
-
+.touch-message {
+  font-size: 1.17rem
+}
 .profilepicture {
   width: 250px;
   height: 250px;
